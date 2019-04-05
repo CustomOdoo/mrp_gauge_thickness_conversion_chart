@@ -15,7 +15,6 @@
         </tree>
       </field>
     </record>
-   
 
     <!-- actions opening views on models -->
     
@@ -34,14 +33,6 @@
     <menuitem name="Conversion Chart" id="conversion_chart.menu_1" 
       action="conversion_chart.action_window"
       parent="conversion_chart.menu_root"/>
-    <!-- <menuitem name="Menu 2" id="conversion_chart.menu_2" parent="conversion_chart.menu_root"/> -->
-   
-    <!-- actions -->
     
-    <!-- <menuitem name="List" id="conversion_chart.menu_1_list" parent="conversion_chart.menu_1"
-              action="conversion_chart.action_window"/> -->
-    <!-- <menuitem name="Server to list" id="conversion_chart" parent="conversion_chart.menu_2"
-              action="conversion_chart.action_server"/> -->
-   
   </data>
 </odoo>
